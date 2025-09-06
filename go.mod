@@ -1,6 +1,6 @@
 module github.com/zeromicro/zero-examples
 
-go 1.18
+go 1.21
 
 require (
 	github.com/dchest/siphash v1.2.3
@@ -10,7 +10,7 @@ require (
 	github.com/gorilla/websocket v1.5.0
 	github.com/nacos-group/nacos-sdk-go v1.0.9
 	github.com/stretchr/testify v1.8.4
-	github.com/zeromicro/go-zero v1.5.6
+	github.com/zeromicro/go-zero v1.9.0
 	github.com/zeromicro/zero-contrib/zrpc/registry/nacos v0.0.0-20211027021815-8ff8a83a094e
 	github.com/zeromicro/zero-contrib/zrpc/registry/polaris v0.0.0-20211220161209-f345f99a9600
 	go.mongodb.org/mongo-driver v1.12.1
