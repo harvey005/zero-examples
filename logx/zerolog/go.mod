@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/rs/zerolog v1.30.0
-	github.com/zeromicro/go-zero v1.9.0
+	github.com/zeromicro/go-zero v1.9.1
 	github.com/zeromicro/zero-contrib/logx/zerologx v0.0.0-20220702160639-bbe8e8ed0d6d
 )
 

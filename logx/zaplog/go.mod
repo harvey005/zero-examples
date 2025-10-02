@@ -3,7 +3,7 @@ module example
 go 1.21
 
 require (
-	github.com/zeromicro/go-zero v1.9.0
+	github.com/zeromicro/go-zero v1.9.1
 	github.com/zeromicro/zero-contrib/logx/zapx v0.0.0-20230212061721-86dbe4a9e613
 )
 
