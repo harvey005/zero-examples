@@ -5,7 +5,7 @@ go 1.21
 require (
 	github.com/sirupsen/logrus v1.9.3
 	github.com/zeromicro/go-zero v1.9.1
-	github.com/zeromicro/zero-contrib/logx/logrusx v0.0.0-20220604015126-80bd73b0c2a0
+	github.com/zeromicro/zero-contrib/logx/logrusx v0.0.0-20250809040225-5c1d3d09e28c
 )
 
 require (

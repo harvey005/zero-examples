@@ -3,9 +3,9 @@ module example
 go 1.21
 
 require (
-	github.com/rs/zerolog v1.30.0
+	github.com/rs/zerolog v1.31.0
 	github.com/zeromicro/go-zero v1.9.1
-	github.com/zeromicro/zero-contrib/logx/zerologx v0.0.0-20220702160639-bbe8e8ed0d6d
+	github.com/zeromicro/zero-contrib/logx/zerologx v0.0.0-20250809040225-5c1d3d09e28c
 )
 
 require (
